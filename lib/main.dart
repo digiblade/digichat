@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text("digichat"),
+          child: Text("digichat on first branch"),
         ),
       ),
     );
